@@ -169,7 +169,7 @@
             <details>
                 <summary>How do I add Candy?</summary>
                 <p>
-                    You can add Candy to your account or a server by clicking the button below.
+                    You can add Candy to your account or a server by clicking the button at the top of the page.
                 </p>
             </details>
         </div>
